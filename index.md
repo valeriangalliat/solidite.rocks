@@ -32,7 +32,7 @@ Val finish
   tenir statiquement cette position.
 
 Val reach
-: Effectuer un mouvemnt (potentiellement un finish, alors appelé un *Val
+: Effectuer un mouvement (potentiellement un finish, alors appelé un *Val
   finish*) qui n'est uniquement rendu possible par la taille du
   grimpeur, lui offrant un *reach* indécent et inapproprié, fascilitant
   grandement la tâche.
