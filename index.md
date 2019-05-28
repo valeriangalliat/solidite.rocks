@@ -104,7 +104,7 @@ Onsight
 Beta spray
 : Étalage surdimentionné de la connaissances accrue des *beta* d'une
   route par un grimpeur souvent *solide* qui a déjà étudié en profondeur
-  l'ensemble les techniques optimales possibles pour compéter la route
+  l'ensemble des techniques optimales possibles pour compéter la route
   en question. Fondamentallement, il s'agit d'un *tuto* détaillé et
   minutieux habituellement non sollicité.
 
